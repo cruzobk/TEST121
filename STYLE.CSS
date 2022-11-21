@@ -1,0 +1,68 @@
+*
+{
+    MARGIN: 0PX;
+}
+.HEADING
+{
+    MARGIN-LEFT: 100PX;
+}
+.HEAD
+{
+    MARGIN-LEFT: 250PX;
+    margin-top: -60px;
+}
+.HEAD >h1
+{
+    font-size: 30px;
+    color: tomato;
+    font-family: 'Times New Roman', Times, serif;
+}
+.HEAD >h4
+{
+    font-size: 30px;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.MENU
+{
+    MARGIN-LEFT:100PX;
+}
+ul
+{
+    margin-top: 20px;
+    list-style-type: none;
+}
+li
+{
+    display: INLINE;
+    margin-right: 100px;
+}
+.ADDRESS
+{
+    margin-top: 100px;
+    background-color: aqua;
+    margin-left: 100px;
+}
+.FOOTER
+{
+    margin-top: 100px;
+    background-color: darkslateblue;
+    text-align: center;
+}
+.COURSE
+{
+    margin-left: 100px;
+}
+table
+{
+    width: 300px;
+}
+th,td
+{
+    border: solid;
+}
+.image > img
+{
+    height: 300px;
+    width: 300px;
+}
